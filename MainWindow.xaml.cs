@@ -83,7 +83,6 @@ namespace Крестики
                 }
                 else
                 {
-                    MessageBox.Show($"'{positions[8]}'");
                     Message.Content = "Ничья";
                 }
                 _1.IsEnabled = false;
